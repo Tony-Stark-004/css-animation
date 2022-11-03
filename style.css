@@ -45,10 +45,6 @@ body{
   background-color: black;
   border-radius: 50%;
   position: relative; 
-  z-index: 3;
-  animation: chakra-mode;
-  animation-iteration-count: infinite;
-  animation-duration: 3s;
  }
 
  #chakra-1{
@@ -95,16 +91,6 @@ body{
   animation-iteration-count: 1;
   animation-duration: 3s;
   animation-delay: 9s;
-}
-
-@keyframes chakra-mode {
-  from{
-    
-  }
-
-  to{
-    
-  }
 }
 
 @keyframes chakra-mode-1 {
